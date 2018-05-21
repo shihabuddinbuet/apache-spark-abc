@@ -1,0 +1,14 @@
+{"temperature":"hot","outlook":"sunny","humidity":"high","windy":"false","play":"no"}
+{"temperature":"hot","outlook":"sunny","humidity":"high","windy":"true","play":"no"}
+{"temperature":"hot","outlook":"overcast","humidity":"high","windy":"false","play":"yes"}
+{"temperature":"cool","outlook":"rain","humidity":"normal","windy":"false","play":"yes"}
+{"temperature":"cool","outlook":"overcast","humidity":"normal","windy":"true","play":"yes"}
+{"temperature":"mild","outlook":"sunny","humidity":"high","windy":"false","play":"no"}
+{"temperature":"cool","outlook":"sunny","humidity":"normal","windy":"false","play":"yes"}
+{"temperature":"mild","outlook":"rain","humidity":"normal","windy":"false","play":"yes"}
+{"temperature":"mild","outlook":"sunny","humidity":"normal","windy":"true","play":"yes"}
+{"temperature":"mild","outlook":"overcast","humidity":"high","windy":"true","play":"yes"}
+{"temperature":"hot","outlook":"overcast","humidity":"normal","windy":"false","play":"yes"}
+{"temperature":"mild","outlook":"rain","humidity":"high","windy":"true","play":"no"}
+{"temperature":"cool","outlook":"rain","humidity":"normal","windy":"true","play":"no"}
+{"temperature":"mild","outlook":"rain","humidity":"high","windy":"false","play":"yes"}
