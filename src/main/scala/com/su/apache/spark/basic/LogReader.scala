@@ -32,7 +32,6 @@ object LogReader {
     println("**************Reading CSV file*************")
     val csv_data = spark
         .read
-        .format("csv")
         .option("sep", ",")
         .schema(SCHEMA)
         .csv(CSV_DATA_PATH)
@@ -42,7 +41,6 @@ object LogReader {
     println("**************Reading TSV file*************")
     val tsv_data = spark
         .read
-        .format("csv")
         .option("sep", "\t")
         .schema(SCHEMA)
         .csv(TSV_DATA_PATH)
@@ -52,7 +50,6 @@ object LogReader {
     println("**************Reading JSON file************")
     val jsn_data = spark
         .read
-        .format("json")
         .json(JSON_DATA_PATH)
 
     jsn_data.show()
