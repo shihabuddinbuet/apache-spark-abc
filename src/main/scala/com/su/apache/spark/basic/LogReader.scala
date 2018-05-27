@@ -1,6 +1,5 @@
 package com.su.apache.spark.basic
 
-import com.databricks.spark.avro.AvroDataFrameWriter
 import org.apache.spark.sql.{SaveMode, SparkSession}
 import org.apache.spark.sql.types.{StringType, StructField, StructType}
 
