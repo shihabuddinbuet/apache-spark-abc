@@ -2,11 +2,12 @@
 A project to show basic operation using apache spark in scala
 
 ## Getting Started
-If you are not familar with spark and scala, get some basic knowledge about
-it before starting to go in deep
+If you are new and looking for how to start using apache spark with scala, 
+then you are at the right place to begin with apache spark in scala. Here is 
+the way how to begin:
 
 ### Prerequesite
-The following tools need to installed before using the project
+The following tools need to be installed before using the content
 * Java sdk >=7.0
 * Maven >=3.0.0
 * Scala sdk >=2.11
